@@ -22,9 +22,9 @@ export USERNAME2=
 ## Downloading index.js and package.json file we will use this while creating cloud function 
 
 ```
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab/index.js
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/1b60b5b597eb07d4450aaa02697580ef5a9182dd/Track%201:%20Cloud%20Infrastructure%20Track%20-%20Challenge%20Labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/index.js
 
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab/package.json
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/1b60b5b597eb07d4450aaa02697580ef5a9182dd/Track%201:%20Cloud%20Infrastructure%20Track%20-%20Challenge%20Labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/package.json
 
 ```
 
