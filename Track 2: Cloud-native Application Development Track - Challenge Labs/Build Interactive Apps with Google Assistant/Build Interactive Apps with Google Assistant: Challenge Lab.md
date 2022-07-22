@@ -1,6 +1,4 @@
-# Build Interactive Apps with Google Assistant: Challenge Lab
-
-[YouTube Video Link](https://youtu.be/DDPQcJAB-SA)
+# Build Interactive Apps with Google Assistant - Challenge Lab
 
 ## Let's start with defining some variables given by Cloud Skill Boosts
 
@@ -16,9 +14,9 @@ export ENTRYPOINT=
 ## Downloading main.py and requirements.txt file we will use this while creating cloud function 
 
 ```
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Build%20Interactive%20Apps%20with%20Google%20Assistant:%20Challenge%20Lab/main.py
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/2bb943377cba79b8848241a52a8eaefa6573a158/Track%202:%20Cloud-native%20Application%20Development%20Track%20-%20Challenge%20Labs/Build%20Interactive%20Apps%20with%20Google%20Assistant/main.py
 
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Build%20Interactive%20Apps%20with%20Google%20Assistant:%20Challenge%20Lab/requirements.txt
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/2bb943377cba79b8848241a52a8eaefa6573a158/Track%202:%20Cloud-native%20Application%20Development%20Track%20-%20Challenge%20Labs/Build%20Interactive%20Apps%20with%20Google%20Assistant/requirements.txt
 
 ```
 
@@ -118,7 +116,8 @@ You can test in Dialogflow to ensure it works.
 - Goto to Dialogflow window --> Test --> Test the sentences
 
 
-# Congratulations you've completed your challenge lab
-## Happy Learning
-## See you in the cloud..
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
+
 
