@@ -109,4 +109,8 @@ curl -s -H 'Content-Type: application/json' \
 gsutil cp video.json gs://$DEVSHELL_PROJECT_ID-marking/<changefilename>
 ``` 
 
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
+
 
