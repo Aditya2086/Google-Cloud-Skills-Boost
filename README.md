@@ -2,7 +2,7 @@
 
 # Google Cloud Facilitator Program 2022
 
-## What is GoogleCloudReady Facilitator program?
+## What is GoogleCloudReady Facilitator Program ?
 
 The GoogleCloudReady Facilitator program will provide you an opportunity to kickstart your career in cloud and get hands on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.
 
@@ -28,7 +28,7 @@ For convinience, we have divided the topics above into 4 different tracks - star
 ## Track 3: Big Data & Machine Learning Track
 ## Track 4: Security, Machine Learning & AI
 
-See the difference between a quest & a skill badge :-
+## See the difference between a quest & a skill badge :-
 
 ![diff_quests_skillbadges](https://user-images.githubusercontent.com/90275944/181417734-405f0c44-2653-4ae9-b3fc-fa81e6254b76.png)
 
