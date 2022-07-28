@@ -8,6 +8,8 @@ The GoogleCloudReady Facilitator program will provide you an opportunity to kick
 
 Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Facilitators" who are specially trained on Google Cloud to help. 😎
 
+![unnamed (1)](https://user-images.githubusercontent.com/90275944/181419760-ecbb9be8-ca0f-4e93-a9e6-3594f8afd803.png)
+
 ## Why Should I enroll in the Program ?
 
 There are a lot of things in store for you. We want to make sure that by the end of this program:
