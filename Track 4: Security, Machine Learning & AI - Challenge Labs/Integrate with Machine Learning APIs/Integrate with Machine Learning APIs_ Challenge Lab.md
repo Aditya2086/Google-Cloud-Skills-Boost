@@ -1,6 +1,4 @@
-# Integrate with Machine Learning APIs: Challenge Lab
-
-[YouTube Video Link](https://youtu.be/JnLoobzhlTI)
+# Integrate with Machine Learning APIs - Challenge Lab
 
 ## Defining some variables given by Cloud Skill Boosts
 
