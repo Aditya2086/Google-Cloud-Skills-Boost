@@ -53,7 +53,7 @@ export GOOGLE_APPLICATION_CREDENTIALS=${PWD}/sample-sa-key.json
 ## Download the file analyze-images-v2.py
 
 ```
-https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/e202b9a3561af2698a5fdc800ce985f47c9ef4ef/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Integrate%20with%20Machine%20Learning%20APIs/analyze-images-v2.py
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/e202b9a3561af2698a5fdc800ce985f47c9ef4ef/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Integrate%20with%20Machine%20Learning%20APIs/analyze-images-v2.py
 ```
 - this command will change your Locale content
 ```
