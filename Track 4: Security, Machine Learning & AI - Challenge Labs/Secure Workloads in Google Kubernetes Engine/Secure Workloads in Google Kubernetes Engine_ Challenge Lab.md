@@ -12,7 +12,7 @@ export CLOUD_SQL_INSTANCE=
 ```
 export SERVICE_ACCOUNT=
 ```
-## Task 1: Download the necessary files
+# Task 1: Download the necessary files
 Task 1: Setup Cluster
 ```
 gsutil cp gs://spls/gsp335/gsp335.zip .
@@ -36,7 +36,7 @@ gcloud sql instances create $CLOUD_SQL_INSTANCE --region us-central1
 
 refresh both new windows and check the work and wait until you get green check mark
 ************************************************************************
-Task 2: Setup wordpress
+# Task 2: Setup wordpress
 
 Service account
 ```
@@ -73,7 +73,7 @@ kubectl apply -f wordpress.yaml
 
 ```
 ************************************************************************
-Task 3: Setup Ingress with TLS
+# Task 3: Setup Ingress with TLS
 ```
 helm version
 ```
@@ -115,7 +115,7 @@ kubectl apply -f ingress.yaml
 ```
 
 ************************************************************************
-Task 4: Set up Network Policy
+# Task 4: Set up Network Policy
 goto editor and in network-policy.yaml add to end
 
 ```
@@ -138,7 +138,7 @@ spec:
 kubectl apply -f network-policy.yaml
 ```
 ************************************************************************
-Task 5: Setup Binary Authorization
+# Task 5: Setup Binary Authorization
 goto security - Binary authorisatioin enableit and click on edit policy under specific rule select gke rule
 - configure policy 
 - disallow all images
@@ -157,3 +157,7 @@ kubectl apply -f psp-restrictive.yaml
 kubectl apply -f psp-role.yaml
 kubectl apply -f psp-use.yaml
 ```
+
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
