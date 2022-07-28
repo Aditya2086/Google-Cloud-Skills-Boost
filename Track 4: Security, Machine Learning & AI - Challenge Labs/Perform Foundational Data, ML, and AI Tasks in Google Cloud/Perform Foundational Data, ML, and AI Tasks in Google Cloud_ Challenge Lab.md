@@ -1,5 +1,4 @@
-## Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
-[YouTube Video Link](https://youtu.be/vJKekSjT_Fk)
+## Perform Foundational Data, ML, and AI Tasks in Google Cloud - Challenge Lab
 
 ## Defining some variables given by Cloud Skill Boosts
 
