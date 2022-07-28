@@ -79,8 +79,7 @@ gcloud iam service-accounts keys create ~/key.json \
 ```
 ## 4.1  Google Cloud Speech API 
 ```
-wget https://raw.githubusercontent.com/guys-in-the-cloud/cloud-skill-boosts/main/Challenge-labs/Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud%3A%20Challenge%20Lab/speech-request.json
-
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/e5707d950158a1ff6bd031f724c39442ba644e62/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Perform%20Foundational%20Data,%20ML,%20and%20AI%20Tasks%20in%20Google%20Cloud/speech-request.json
 curl -s -X POST -H "Content-Type: application/json" --data-binary @speech-request.json \ 
 "https://speech.googleapis.com/v1/speech:recognize?key=${API_KEY}" > speech.json
 ```
@@ -99,7 +98,7 @@ gsutil cp language.json gs://$DEVSHELL_PROJECT_ID-marking/<changefilename>
 
 - Copy the Video Intelligence configuration file
 ```
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/blob/main/Challenge-labs/Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab/video-intelligence-request.json
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/e5707d950158a1ff6bd031f724c39442ba644e62/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Perform%20Foundational%20Data,%20ML,%20and%20AI%20Tasks%20in%20Google%20Cloud/video-intelligence-request.json
 ```
 ```
 curl -s -H 'Content-Type: application/json' \
