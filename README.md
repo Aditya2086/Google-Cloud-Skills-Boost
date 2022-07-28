@@ -1,6 +1,6 @@
-## Google-Cloud-Skills-Boosts
+## Google-Cloud-Skills-Boosts Challenge Labs Solutions
 
-# 1. Google Cloud Facilitator Program 2022
+# Google Cloud Facilitator Program 2022
 
 ## What is GoogleCloudReady Facilitator program?
 
