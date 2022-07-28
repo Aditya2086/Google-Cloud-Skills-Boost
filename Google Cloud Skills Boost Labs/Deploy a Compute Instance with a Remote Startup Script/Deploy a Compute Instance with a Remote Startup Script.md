@@ -1,6 +1,4 @@
-# Deploy a Compute Instance with a Remote Startup Script
-
-[YouTube Video Link](https://youtu.be/ZdZ3SiarZrs)
+# Deploy a Compute Instance with a Remote Startup Script - Challenge Lab
 
 ## Task 1: Confirm that a Google Cloud Storage bucket exists that contains a file
 
@@ -10,7 +8,7 @@ gsutil mb -b off gs://$DEVSHELL_PROJECT_ID
 ```
 1.2 Downloading a sample script given in the lab instructions
 ```
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Deploy%20a%20Compute%20Instance%20with%20a%20Remote%20Startup%20Script/resources-install-web.sh
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/90b4c9ece50972fa162fc445d31891107fb49a5d/Google%20Cloud%20Skills%20Boost%20Labs/Deploy%20a%20Compute%20Instance%20with%20a%20Remote%20Startup%20Script/resources-install-web.sh
 ```
 1.3 Uploading downloaded script file to the bucket
 ```
@@ -46,6 +44,6 @@ Now, let's validate that we've installed a webserver successfully & it is servin
 curl http://$VM_EXTERNAL_IP
 ```
 
-# Congratulations you've completed your challenge lab
-## Happy Learning
-## See you in the cloud...
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
