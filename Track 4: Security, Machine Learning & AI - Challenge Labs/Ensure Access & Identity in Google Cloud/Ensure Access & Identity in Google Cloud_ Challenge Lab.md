@@ -75,9 +75,9 @@ kubectl expose deployment hello-server --name orca-hello-service --type LoadBala
 
 
 
-# Congratulations you've completed your challenge lab
-## Happy Learning
-## See you in the cloud...
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
 
 
 
