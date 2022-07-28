@@ -20,3 +20,14 @@ There are a lot of things in store for you. We want to make sure that by the end
 The program will introduce you to Computing, Application Development, Big Data & Machine Learning using Google Cloud's training platform called Google Cloud Skills Boost where you will learn each of these topic using self-paced labs that provides you temporary credentials to Google Cloud Platform, so you can learn the cloud using the real thing – no simulations.
 
 For convinience, we have divided the topics above into 4 different tracks - starting from the most basic.
+
+## Track 1: Cloud Infrastructure Track
+## Track 2: Cloud-native Application Development Track
+## Track 3: Big Data & Machine Learning Track
+## Track 4: Security, Machine Learning & AI
+
+See the difference between a quest & a skill badge :-
+
+![diff_quests_skillbadges](https://user-images.githubusercontent.com/90275944/181417734-405f0c44-2653-4ae9-b3fc-fa81e6254b76.png)
+
+
