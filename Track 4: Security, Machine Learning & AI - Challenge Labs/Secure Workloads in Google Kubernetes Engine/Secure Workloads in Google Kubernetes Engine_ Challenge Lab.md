@@ -149,7 +149,7 @@ goto security - Binary authorisatioin enableit and click on edit policy under sp
 - save policy 
 enanble binary authorisation for kuberetes clusater
 ************************************************************************
-TAsk 6`
+# Task 6: `
 edit psp-restrictive.yaml 
 line 2 change extensions/v1beta1 to policy/v1beta1
 ```
