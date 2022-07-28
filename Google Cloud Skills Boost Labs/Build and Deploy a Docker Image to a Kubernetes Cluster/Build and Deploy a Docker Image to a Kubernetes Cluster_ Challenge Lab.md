@@ -1,10 +1,10 @@
-# Build and Deploy a Docker Image to a Kubernetes Cluster
+# Build and Deploy a Docker Image to a Kubernetes Cluster - Challenge Lab
 
 ## Prerequisites 
 
 1 Before starting this lab, we need to download the source code of the application which is given in the lab instruction.
 ```
-wget https://github.com/guys-in-the-cloud/cloud-skill-boosts/raw/main/Challenge-labs/Build%20and%20Deploy%20a%20Docker%20Image%20to%20a%20Kubernetes%20Cluster/resources-echo-web.tar.gz
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/71186d9d795824ae4e21d3c07e4a482fb80a8a16/Google%20Cloud%20Skills%20Boost%20Labs/Build%20and%20Deploy%20a%20Docker%20Image%20to%20a%20Kubernetes%20Cluster/resources-echo-web.tar.gz
 ```
 2 Extract the downloaded application file 
 ```
