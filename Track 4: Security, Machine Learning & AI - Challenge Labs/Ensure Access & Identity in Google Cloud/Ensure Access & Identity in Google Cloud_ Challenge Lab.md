@@ -15,7 +15,7 @@ export CLUSTER_NAME=
 ## Task 1: Create a custom security role.
 
 ```
-https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/c4fb5d93fe7dbee8c400d2c920e62c622e1e5039/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Ensure%20Access%20&%20Identity%20in%20Google%20Cloud/role-definition.yaml
+wget https://github.com/Aditya2086/Google-Cloud-Skills-Boost/blob/c4fb5d93fe7dbee8c400d2c920e62c622e1e5039/Track%204:%20Security,%20Machine%20Learning%20&%20AI%20-%20Challenge%20Labs/Ensure%20Access%20&%20Identity%20in%20Google%20Cloud/role-definition.yaml
 ```
 
 ```
