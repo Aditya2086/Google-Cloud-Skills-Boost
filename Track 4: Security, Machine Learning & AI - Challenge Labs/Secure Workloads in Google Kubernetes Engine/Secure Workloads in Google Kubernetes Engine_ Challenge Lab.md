@@ -1,6 +1,4 @@
-## Secure Workloads in Google Kubernetes Engine: Challenge Lab
-
-[YouTube Video Link](https://youtu.be/vJKekSjT_Fk)
+## Secure Workloads in Google Kubernetes Engine - Challenge Lab
 
 ## Defining some variables given by Cloud Skill Boosts
 
