@@ -68,3 +68,6 @@ python3 analyze-images-v2.py $DEVSHELL_PROJECT_ID $DEVSHELL_PROJECT_ID
 bq query --use_legacy_sql=false "SELECT locale,COUNT(locale) as lcount FROM image_classification_dataset.image_text_detail GROUP BY locale ORDER BY lcount DESC"
 ```
 
+# Congratulations! You've Completed Your Challenge Lab :)
+## Happy Learning :)
+## See You In The Cloud...
